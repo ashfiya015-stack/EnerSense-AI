@@ -1,0 +1,2 @@
+Model,MAE,RMSE,R2,Training_Samples,Testing_Samples,Features
+HistGradientBoosting,2.0750914609402273,3.051638077714183,0.9257603789341987,13900,3476,16
